@@ -1,5 +1,7 @@
 ## A Simple Server with Python Flask
 
+Contains Pi2’s webserver Dockerfile and source.
+
 When the server Pi2 receive the SENSOR messages, it adds an entry to the sensorlog file.
 
 The P2 server provides a simple web interface showing a UCT logo and our names and 
